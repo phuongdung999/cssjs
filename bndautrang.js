@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='http://bit.ly/2cnxXrk' target='_blank'><img src='http://banxevespa.com/wp-content/uploads/2016/03/primavera.jpg' width='500px'/><br/>13 Kỹ thuật đẩy top vượt trội</a>. . <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='http://bit.ly/2cnxXrk' target='_blank'><img src='http://banxevespa.com/wp-content/uploads/2016/03/primavera.jpg' width='500px'/><br/>showroom vespa nguyễn văn trỗi quận phú nhuận</a>.tặng voucher ưu đãi khủng lên đến 3 triệu	 . <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
